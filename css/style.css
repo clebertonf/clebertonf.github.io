@@ -1,0 +1,19 @@
+#fonte_nome {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#fonte_descricao {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color:#fffde3;
+}
+
+.destaque{
+    background-color: bisque;
+}
+
+.habilidade_foco{
+    font-size: 20px;
+}
