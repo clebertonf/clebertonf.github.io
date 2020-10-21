@@ -1,5 +1,6 @@
 #fonte_nome {
     font-family: 'Segoe UI', Tahoma;
+    text-align: center;
 }
 
 #fonte_descricao {
@@ -16,4 +17,42 @@ body {
 
 .habilidade_foco{
     font-size: 20px;
+}
+
+.info {
+    margin-top: 200px;
+}
+
+.descricao {
+    float: left;
+    margin-right: 35px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    margin-top: -3%;
+    border-bottom-style: ridge;    
+}
+
+.segunda_div{
+    float: left;
+}
+
+.terceira_div{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.had_skils{
+    margin-top: 50px;
+}
+
+.blog{
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+.estilo {
+    color: purple;
+    text-transform: inherit;
 }
