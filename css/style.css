@@ -234,3 +234,11 @@
         font-size: 60px;
     }
 }
+
+a {
+    text-decoration: none;
+    color: var(--main-color);
+    border-radius: 5px;
+    text-decoration: none;
+    transition: .5s;
+}
