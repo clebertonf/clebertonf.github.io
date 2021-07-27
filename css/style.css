@@ -242,3 +242,8 @@ a {
     text-decoration: none;
     transition: .5s;
 }
+
+.buttons-container {
+    display: flex;
+    justify-content: space-around;
+}
